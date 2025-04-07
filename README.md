@@ -12,7 +12,7 @@ To build a model that estimates the expected number of future purchases by each 
 
 ## 🔍 Methodology & Business Impact
 
-This end-to-end pipeline enables businesses to:
+This project enables businesses to:
 
 - **Segment customers** using RFM (Recency, Frequency, Monetary) analysis to identify high-value vs. at-risk customers.
 - **Predict customer behavior** using probabilistic models: `BG-NBD`, `Pareto-NBD`, and `MBG-NBD`.

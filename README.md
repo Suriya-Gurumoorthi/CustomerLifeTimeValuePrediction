@@ -55,3 +55,14 @@ By identifying which customers are most likely to make repeat purchases, compani
 - Jupyter Notebook
 
 ---
+
+## 📌 Conclusion
+
+This project demonstrates how machine learning and statistical modeling can be used to drive real-world business value. By forecasting customer purchases, organizations can reduce churn, optimize marketing spend, and build long-lasting customer relationships.
+
+---
+
+## 📬 Contact
+
+Feel free to connect with me on [LinkedIn](www.linkedin.com/in/suriyagurumoorthi) or reach out via email for suggestions, or feedback!
+
